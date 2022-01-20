@@ -22,7 +22,7 @@ const applicationHTML = `
     </section>
     </article>
     <article class="assignments">
-        <h2>Walkers in Cities</h2>
+        <h2>Initial Assignments</h2>
         ${Assignments()}
     </article>
     
